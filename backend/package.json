@@ -1,0 +1,17 @@
+{
+  "name": "threebackend",
+  "version": "1.0.0",
+  "description": "where we will store the files and do the ai work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "keywords": [
+    "fashion",
+    "ai",
+    "scanning",
+    "design"
+  ],
+  "author": "Amaan khan",
+  "license": "ISC"
+}
