@@ -4,7 +4,7 @@
   "description": "where we will store the files and do the ai work",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js" 
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "fashion",
@@ -13,5 +13,8 @@
     "design"
   ],
   "author": "Amaan khan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
